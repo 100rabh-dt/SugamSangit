@@ -1,4 +1,4 @@
-# Musicr - Redefine the Music Player
+# Musicr - Redefine the Music Player#
 **A pretty UI&UX Music Player**
 
 ## Features
@@ -23,7 +23,7 @@ Download apk file here [Music player v1.3](https://github.com/dtrung98/Source/ra
 https://github.com/dtrung98/Source/raw/master/musicr.apk
 ```
 ## Screenshots
-</br>
+ </br>
 <div align="center">
    <table align="center" border="0" >
   <tr>
@@ -37,8 +37,8 @@ src="https://user-images.githubusercontent.com/33343210/61610968-c3abfd80-ac84-1
 src="https://user-images.githubusercontent.com/33343210/61610657-edb0f000-ac83-11e9-8b89-eb205d8ac518.png"/></td>
   </table>
   </div>
-</br>
-<div align="center">
+ </br>
+ <div align="center">
   <table align="center" border="0" >
   <tr>
     <td> <img width="360"
@@ -50,7 +50,7 @@ src="https://user-images.githubusercontent.com/33343210/61611355-c6f3b900-ac85-1
   </tr>
 </table>
   </div>
-</br>
+ </br>
 <div align="center">
   <table align="center" border="0" >
   <tr>
@@ -62,8 +62,8 @@ src="https://user-images.githubusercontent.com/33343210/61611516-2d78d700-ac86-1
 src="https://user-images.githubusercontent.com/33343210/61764970-4eb40180-ae05-11e9-9903-241fa144582b.png"/></td>
   </tr>
 </table>
-  </div>
-</br>
+</div>
+ </br>
 
 ## Authors
 
